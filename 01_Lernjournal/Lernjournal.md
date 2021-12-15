@@ -43,47 +43,32 @@
 
 # 5. 06.01.2022
 
-| Ziel                                                                            | Auswertung                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.                     | Keepass => Done                                   |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert. | Done                                              |
-| usw….                                                                           |                                                   |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |                                                                        |                                                   |
 
 # 6. 13.01.2022
 
-| Ziel                                                                            | Auswertung                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.                     | Keepass => Done                                   |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert. | Done                                              |
-| usw….                                                                           |                                                   |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |                                                                         |                                                   |
 
 # 7. 20.01.2022
 
-| Ziel                                                                            | Auswertung                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.                     | Keepass => Done                                   |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert. | Done                                              |
-| usw….                                                                           |                                                   |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |                                                                       |                                                   |
 
 # 8. 27.01.2022
 
-| Ziel                                                                            | Auswertung                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.                     | Keepass => Done                                   |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert. | Done                                              |
-| usw….                                                                           |                                                   |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |                                                                        |                                                   |
 
 # 9. 03.02.2022
 
-| Ziel                                                                            | Auswertung                                        |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.                     | Keepass => Done                                   |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert. | Done                                              |
-| usw….                                                                           |                                                   |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |                                                                          |                                                   |
 
 # 10. Quellen
