@@ -37,9 +37,9 @@
 
 # 4. 16.12.2021
 
-| Ziel | Auswertung                                        |
-| ---- | ------------------------------------------------- |
-|      | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
+| Ziel | Auswertung |
+| ---- | ---------- |
+|      |            |
 
 # 5. 06.01.2022
 
