@@ -1,6 +1,6 @@
-# Lernjournal `<!-- omit in toc -->`
+# Lernjournal
 
-# Inhaltsverzeichnis `<!-- omit in toc -->`
+# Inhaltsverzeichnis
 
 - [1. 25.11.2021](#1-25112021)
 - [2. 02.12.2021](#2-02122021)
