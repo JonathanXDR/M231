@@ -45,13 +45,13 @@
 # 5. 06.01.2022
 
 | Ziel | Auswertung |
-| ---- | ---------- | --- | --- |
-| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |            |     |     |
+| ---- | ---------- |
+| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |            |
 
 # 6. 13.01.2022
 
 | Ziel | Auswertung |
-| ---- | ---------- | --- | --- |
+| ---- | ---------- |
 | Repository erstellt, Zugriff funktioniert
 	
 
@@ -83,7 +83,7 @@ Aufgabe: Der eigene Passwortmanager:
 	
 	
 	
-Dokumentieren Sie ihre Ergebnisse in Ihrem persönlichen Portfolio:     |            |     |     |
+Dokumentieren Sie ihre Ergebnisse in Ihrem persönlichen Portfolio:     |            |
 
 # 7. 20.01.2022
 
