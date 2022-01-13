@@ -40,7 +40,8 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Mehr über Privacy Policies Erfahren und verstehen     |   Ich verstehe dieses Thema         |
+| Prüfung schreiben  | Note: 5.2 |
+| Abschluss vor den Ferien |  |
 
 # 5. 06.01.2022
 
