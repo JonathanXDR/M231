@@ -40,13 +40,13 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-|      |            |
+| Mehr über Privacy Policies Erfahren und verstehen     |   Ich verstehe dieses Thema         |
 
 # 5. 06.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |            |
+| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |   Ich konnte einige Programme zur Verschlüsselung anwenden         |
 
 # 6. 13.01.2022
 
@@ -54,37 +54,6 @@
 | ---- | ---------- |
 | Repository erstellt, Zugriff funktioniert
 	
-
-		
-https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/02_git#6-neues-repository-f%C3%BCr-pers%C3%B6nliches-portfolio-erstellen 
-	
-	
-	
-Nachvollziehbare Struktur für Inhalte erstellt (siehe Vorlage als Beispiel)
-	
-
-		
-https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/02_git#63-repository-strukturierung 
-	
-	
-	
-Lernjournal nachführen:
-	
-	
-Merkblatt zum Passwortmanager durchlesen:
-	https://docs.datenschutz.ch/u/d/publikationen/formulare-merkblaetter/merkblatt_passwortmanager.pdf
-	
-Aufgabe: Der eigene Passwortmanager:
-	https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/03_passwords#10-der-eigene-passwort-manager
-	
-
-		
-è Definieren Sie für Ihre Entscheidung mindestens 4 Kriterien und vergleichen Sie mindestens 3 unterschiedliche Passwortmanager. Siehe Beispiel.
-	
-	
-	
-Dokumentieren Sie ihre Ergebnisse in Ihrem persönlichen Portfolio:     |            |
-
 # 7. 20.01.2022
 
 | Ziel | Auswertung |
