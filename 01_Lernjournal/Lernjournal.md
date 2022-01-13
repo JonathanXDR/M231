@@ -17,9 +17,9 @@
 
 | Ziel                                        | Auswertung |
 | ------------------------------------------- | ---------- |
-| Folien der Einstiegspräsentation durchgehen | ads        |
-| Sich mit den Unterlagen vertraut machen     | asd        |
-| Praktische Übung zum CrypTool               | asd        |
+| Folien der Einstiegspräsentation durchgehen | Ich habe alle Aufgaben erledigt und die einzelnen Übungen verstanden        |
+| Sich mit den Unterlagen vertraut machen     |         |
+| Praktische Übung zum CrypTool               |         |
 
 | Lesen und Austauschen<br />(https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) |
 
