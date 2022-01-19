@@ -32,8 +32,8 @@
 
 | Ziel                                         | Auswertung                                                                         |
 | -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown  | Ich konnte alle Fehler beheben und habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut |
-| Privacy Policies von Social Media Platformen |                                                                                    |
+| Persönliches Portfolio mit GIT und Markdown  | Ich konnte alle vorherigen Fehler beheben |
+| Privacy Policies von Social Media Platformen | Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
 
 # 4. 16.12.2021
 
