@@ -26,13 +26,13 @@
 
 | Ziel                                        | Auswertung                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown | Es gab mehrere Fehlermeldungen bezüglich SSH, diese werde ich noch behenen |
+| Persönliches Portfolio mit GIT und Markdown | Es gab mehrere Fehlermeldungen bezüglich SSH |
 
 # 3. 09.12.2021
 
 | Ziel                                         | Auswertung                                                                         |
 | -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown  | Ich konnte alle Fehler beheben und mache dieses Lernjournal als Hausaufgabe fertig |
+| Persönliches Portfolio mit GIT und Markdown  | Ich konnte alle Fehler beheben und habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut |
 | Privacy Policies von Social Media Platformen |                                                                                    |
 
 # 4. 16.12.2021
@@ -46,13 +46,13 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |   Ich konnte einige Programme zur Verschlüsselung anwenden         |
+| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |   Ich konnte einige Programme zur Verschlüsselung anwenden und habe diese verstanden         |
 
 # 6. 13.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Repository erstellt, Zugriff funktioniert
+| Repository erstellt, Zugriff funktioniert| Zugriff funktioniert, Repository muss ich aber noch verbessern
 	
 # 7. 20.01.2022
 
