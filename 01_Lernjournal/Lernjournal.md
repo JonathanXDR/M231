@@ -58,7 +58,7 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -     | -           |
+| Passwortmanager einrichten und Ablagekonzept fertigstellen     | -           |
 
 # 8. 27.01.2022
 
