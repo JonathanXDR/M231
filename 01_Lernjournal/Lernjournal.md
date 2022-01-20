@@ -58,7 +58,7 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Passwortmanager einrichten und Ablagekonzept fertigstellen     | -           |
+| Passwortmanager einrichten und Ablagekonzept fertigstellen     | Ich habe den Passwortmanager eingerichtet und das Ablagekozept fertiggstellt          |
 
 # 8. 27.01.2022
 
