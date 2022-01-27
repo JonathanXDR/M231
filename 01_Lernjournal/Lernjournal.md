@@ -17,10 +17,10 @@
 
 | Ziel                                        | Auswertung |
 | ------------------------------------------- | ---------- |
-| Folien der Einstiegspräsentation durchgehen | Ich habe alle Aufgaben erledigt und die einzelnen Übungen verstanden        |
-| Sich mit den Unterlagen vertraut machen     |         |
-| Praktische Übung zum CrypTool               |         |
-| Lesen und Austauschen<br />(https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) |
+| -Folien der Einstiegspräsentation durchgehen | Ich habe alle Aufgaben erledigt und die einzelnen Übungen verstanden        |
+| -Sich mit den Unterlagen vertraut machen     |         |
+| -Praktische Übung zum CrypTool               |         |
+| -Lesen und Austauschen<br />(https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) |
 
 # 2. 02.12.2021
 
@@ -32,8 +32,8 @@
 
 | Ziel                                         | Auswertung                                                                         |
 | -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown  | Ich konnte alle vorherigen Fehler beheben |
-| Privacy Policies von Social Media Platformen | Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
+| -Persönliches Portfolio mit GIT und Markdown  | -Ich konnte alle vorherigen Fehler beheben |
+| -Privacy Policies von Social Media Platformen | -Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
 
 # 4. 16.12.2021
 
@@ -52,19 +52,22 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Repository erstellt, Zugriff funktioniert| Zugriff funktioniert, Repository muss ich aber noch verbessern
+| -Repository erstellt | -Repository noch verbessert werden   |
+| -Zugriff funktioniert | Zugriff funktioniert |
 	
 # 7. 20.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Passwortmanager einrichten und Ablagekonzept fertigstellen     | Ich habe den Passwortmanager eingerichtet und das Ablagekozept fertiggstellt          |
+| -Passwortmanager einrichten     | -Passwortmanager eingerichtet    |
+| -Ablagekonzept fertigstellen     |   -Ablagekozept fertiggstellt         |
 
 # 8. 27.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -     |  -         |
+| -Datensicherungsstrategie von Backups     |  -Ich habe in meiner Gruppe die Datensicherungsstrategie von Backups angeschaut und diese der Klasse erklärt         |
+| -Backuptools ausprobieren      |            |
 
 # 9. 03.02.2022
 
