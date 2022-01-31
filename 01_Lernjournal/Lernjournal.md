@@ -26,14 +26,21 @@
 
 | Ziel                                        | Auswertung                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown | Es gab mehrere Fehlermeldungen bezüglich SSH |
+| Ich habe ein GIT-Repository für mein persönliches Portfolio erstellt und mit einem Remote-Repository synchronisiert. | Es gab mehrere Fehlermeldungen bezüglich SSH |
+| Ich kenne die wichtigsten am häufigsten verwendeten Markdown Elemente |  |
+| Ich kenne die wichtigsten GIT-Befehle und ihren Syntax (add, commit, push, pull, status, log). |  |
+| Ich habe einen Quelletext-Editor ausgewählt, auf meinem persönlichen Notebook eingerichtet und kenne die wichtigsten Bedienelemente. |  |
 
 # 3. 09.12.2021
 
 | Ziel                                         | Auswertung                                                                         |
 | -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| -Persönliches Portfolio mit GIT und Markdown  | -Ich konnte alle vorherigen Fehler beheben |
-| -Privacy Policies von Social Media Platformen | -Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
+| 2. Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infra-struktur. |  |
+| 2.3. Kennt Techniken des Zugriffsschutzes, Passwortmanager und Prinzipien der Passwortverwaltung. |  |
+| 2.4 Kennt den Unterschied von Authentifizierung und Autorisierung. |  |
+| E1G: Kann die Prinzipen der Passwortverwaltung und "gute" Passwörter erläutern. |  |
+| E1F: Kann einen Passwort Manager einsetzen. |  |
+| E1E: Kennt und setzt erweiterte Möglichkeiten der Authentifizierung ein. Kennt Vor- und Nachteile von Passwortmanagern. |  |
 
 # 4. 16.12.2021
 
@@ -46,14 +53,21 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| Möglichst viele unterschiedliche Programme zum Thema Verschlüsselung ausprobieren und Erfahrungen sammeln.     |   Ich konnte einige Programme zur Verschlüsselung anwenden und habe diese verstanden         |
+| Kann zwischen allgemeinen und personenbezogenen Daten unterscheiden. |  |
+| B1G: Kann den Grundsatz Daten und Applikationen zu trennen erläutern |  |
+| B1F: Wendet ein vorgegebenes Ablagekonzept an, um die eigenen Daten zu organisieren und zu speichern. |  |
+| B1E: Entwirft ein eigenes Ablagekonzept für seine Daten und setzt dieses um. |  |
+| B2G: Kann den Unterschied zwischen lokaler und cloudbasierter Ablage erläutern. |  |
+| B2F: Richtet und setzt lokale und cloudbasierte Ablagen ein. |  |
+| B2E: Vergleicht verschiedene cloudbasierte Ablagen. |  |
 
 # 6. 13.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -Repository erstellt | -Repository noch verbessert werden   |
-| -Zugriff funktioniert | Zugriff funktioniert |
+| B3G: Kann den Zweck, aber auch die Grenzen eines Backups erläutern. |  |
+| B3F: Plant und macht regelmässig ein Backup seiner Daten. |  |
+| B3E: Setzt ein Backupkonzept ein und überprüft es regelmässig auf Restorefähigkeit. |  |
 	
 # 7. 20.01.2022
 
