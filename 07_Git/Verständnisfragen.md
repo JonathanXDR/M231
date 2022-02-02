@@ -1,4 +1,4 @@
-## Verständnisfragen
+# Verständnisfragen
 
 - **Was bedeutet die Abkürzung DVCS?**
 
