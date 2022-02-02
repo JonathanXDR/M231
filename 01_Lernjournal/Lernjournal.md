@@ -35,7 +35,7 @@
 
 | Ziel                                         | Auswertung                                                                                         |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Ziele[02.12.2021](#2-02122021)               | Ich konnte alle vorherigen Fehler beheben                                                          |
+| Ziele [02.12.2021](#2-02122021)               | Ich konnte alle vorherigen Fehler beheben                                                          |
 | Privacy Policies von Social Media Platformen | Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
 
 # 4. 16.12.2021
@@ -57,7 +57,7 @@
 
 | Ziel                           | Auswertung                             |
 | ------------------------------ | -------------------------------------- |
-| Ziele[02.12.2021](#2-02122021) | Repository muss noch verbessert werden |
+| Ziele [02.12.2021](#2-02122021) | Repository muss noch verbessert werden |
 
 # 7. 20.01.2022
 
@@ -79,7 +79,7 @@
 
 | Ziel                           | Auswertung   |
 | ------------------------------ | ------------ |
-| Ziele[02.12.2021](#2-02122021) | Alles fertig |
+| Ziele [02.12.2021](#2-02122021) | Alles fertig |
 | Persönliches Portfolio abgeben | Abgegeben    |
 
 # 10. Quellen
