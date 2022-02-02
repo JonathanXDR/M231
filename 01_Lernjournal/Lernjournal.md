@@ -17,23 +17,26 @@
 
 | Ziel                                        | Auswertung |
 | ------------------------------------------- | ---------- |
-| -Folien der Einstiegspräsentation durchgehen | Ich habe alle Aufgaben erledigt und die einzelnen Übungen verstanden        |
-| -Sich mit den Unterlagen vertraut machen     |         |
-| -Praktische Übung zum CrypTool               |         |
-| -Lesen und Austauschen<br />(https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) |
+| Folien der Einstiegspräsentation durchgehen | Ich habe alle Aufgaben erledigt und die einzelnen Übungen verstanden        |
+| Sich mit den Unterlagen vertraut machen     |         |
+| Praktische Übung zum CrypTool               |         |
+| Lesen und Austauschen<br />(https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) |
 
 # 2. 02.12.2021
 
 | Ziel                                        | Auswertung                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
-| Persönliches Portfolio mit GIT und Markdown | Es gab mehrere Fehlermeldungen bezüglich SSH |
+| Ich habe ein GIT-Repository für mein persönliches Portfolio erstellt und mit einem Remote-Repository synchronisiert. | Es gab einige Fehlermeldungen bezüglich SSH |
+| Ich kenne die wichtigsten am häufigsten verwendeten Markdown Elemente | Ich kenne die Elemente und habe damit etwas herumexperimentiert |
+| Ich kenne die wichtigsten GIT-Befehle und ihren Syntax (add, commit, push, pull, status, log). | Ich kenne sie und kann sie erklären |
+| Ich habe einen Quelletext-Editor ausgewählt, auf meinem persönlichen Notebook eingerichtet und kenne die wichtigsten Bedienelemente. | Ich habe Visual Studio Code installiert und kenne mich damit aus |
 
 # 3. 09.12.2021
 
 | Ziel                                         | Auswertung                                                                         |
 | -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| -Persönliches Portfolio mit GIT und Markdown  | -Ich konnte alle vorherigen Fehler beheben |
-| -Privacy Policies von Social Media Platformen | -Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
+| Gleiche Ziele, wie vom 02.12.2021  | Ich konnte alle vorherigen Fehler beheben |
+| Privacy Policies von Social Media Platformen | Ich habe in meiner Gruppe die Privacy Policie von Snapchat angeschaut und diese der Klasse erklärt |
 
 # 4. 16.12.2021
 
@@ -52,27 +55,27 @@
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -Repository erstellt | -Repository noch verbessert werden   |
-| -Zugriff funktioniert | Zugriff funktioniert |
+| Repository erstellt | Repository noch verbessert werden   |
+| Zugriff funktioniert | Zugriff funktioniert |
 	
 # 7. 20.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -Passwortmanager einrichten     | -Passwortmanager eingerichtet    |
-| -Ablagekonzept fertigstellen     |   -Ablagekozept fertiggstellt         |
+| Passwortmanager einrichten     | Passwortmanager eingerichtet    |
+| Ablagekonzept fertigstellen     |   Ablagekozept fertiggstellt         |
 
 # 8. 27.01.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-| -Datensicherungsstrategie von Backups     |  -Ich habe in meiner Gruppe die Datensicherungsstrategie von Backups angeschaut und diese der Klasse erklärt         |
-| -Backuptools ausprobieren      |            |
+| Datensicherungsstrategie von Backups     |  Ich habe in meiner Gruppe die Datensicherungsstrategie von Backups angeschaut und diese der Klasse erklärt         |
+| Backuptools ausprobieren      |            |
 
 # 9. 03.02.2022
 
 | Ziel | Auswertung |
 | ---- | ---------- |
-|  -    |  -          |
+|      |            |
 
 # 10. Quellen
